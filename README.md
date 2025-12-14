@@ -28,17 +28,6 @@ This project transforms raw transactional data into **actionable business insigh
 
 ---
 
-## 📈 Key KPIs
-
-| Metric | Value |
-|------|------|
-| Total Sales | **1.57M** |
-| Total Quantity | **22K** |
-| Total Profit | **175.26K** |
-| Avg Delivery Time | **4 Days** |
-
----
-
 ## 🔍 Analytical Insights
 
 ### 📍 Sales Analysis
@@ -90,6 +79,7 @@ This project transforms raw transactional data into **actionable business insigh
 ```
 SuperStore-Sales-Dashboard/
 │
+├── SuperStore_Sales_Dataset.csv
 ├── SuperStore_Sales_Dashboard.pbix
 ├── assets/
 │   ├── sales_dashboard.png
